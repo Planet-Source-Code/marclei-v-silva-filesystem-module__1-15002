@@ -1,0 +1,16 @@
+[History]
+B0=FileSystemDemo/Form1/ShowAbout
+B1=FileSystemDemo/Form1/Form_Load
+B2=FileSystemDemo/Form1/ListFunctions
+B3=FileSystemDemo/Form1/ShowReadMe
+B4=FileSystemDemo/Form1/RunThis
+B5=FileSystemDemo/Form1/cmdReadMe_Click
+B6=FileSystemDemo/Form1/cmdList_Click
+B7=FileSystemDemo/FileSystem
+B8=FileSystemDemo/FileSystem/UTCToLocalDate
+B9=FileSystemDemo/FileSystem/GetFile
+B10=FileSystemDemo/FileSystem/GetTempFileName
+B11=FileSystemDemo/FileSystem/GetTempPath
+B12=FileSystemDemo/FileSystem/IsReadOnly
+B13=FileSystemDemo/FileSystem/GetFullPathName
+B14=FileSystemDemo/FileSystem/MoveFolder
